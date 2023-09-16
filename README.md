@@ -1,19 +1,5 @@
-#
-
-<style>
-  .h1{
-    background: #003;
-    font-size: 50px;
-    text-align: center;
-  }
-  hr{
-    border: 4px solid ;
-    background: skyblue;
-
-  }
-</style>
-
-  <h1 class="h1">React + Tailwind CSS + Figma</h1>
+#Abdullah Al Sazib
+<h1 class="h1">React + Tailwind CSS + Figma</h1>
 <hr/>
 <video width="100%" controls src="/home/abdullah/Figma_to_Web/figma_to_design/src/Video/out-1.ogv"></video>
 <hr/>
@@ -26,4 +12,15 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Currently, two official plugins are available:
 
->
+><style>
+  .h1{
+    background: #003;
+    font-size: 50px;
+    text-align: center;
+  }
+  hr{
+    border: 4px solid ;
+    background: skyblue;
+
+  }
+</style>
