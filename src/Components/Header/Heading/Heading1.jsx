@@ -6,7 +6,7 @@ export default function Heading1() {
       <div className=" w-full h-screen capitalize bg-[url('/home/abdullah/Figma_to_Web/figma_to_design/src/Images/svg1-home.svg')] bg-[right_0px] bg-no-repeat">
         <div className=" text-left flex items-center justify-center  h-screen">
           <div className=" space-y-8 w-[90%] lg:w-[65%] ">
-            <div className=" lg:space-x-5 space-x-0">
+            <div className=" lg:space-y-5 space-y-0">
               <h1 className=" text-2xl lg:text-[50px] font-semibold font-mono capitalize">
                 Introduce Your Product
               </h1>
